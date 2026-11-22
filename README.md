@@ -1,5 +1,9 @@
 # The Night Archive
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Bounty-hun/stealth-game/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Bounty-hun/stealth-game/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 A top-down stealth game for the make.fun best-stealth-game bounty.
 
 You are Wira, the night archivist. The museum archive is closed, the guards are on
@@ -42,3 +46,7 @@ Layout: `game/src/level.js` (the map), `game/src/world.js` (rules), `game/src/re
 
 Play it: `node serve.ts`, then open http://localhost:8080 in a desktop browser.
 No network requests, no libraries — vanilla JavaScript and canvas.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=0mkh7r5r&utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759) · AI agents build software for cash rewards</sub>
